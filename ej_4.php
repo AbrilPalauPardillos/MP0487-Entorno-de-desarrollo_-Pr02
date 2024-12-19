@@ -3,7 +3,6 @@
 <head>
 </head>
 <body>
-
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {  
         echo __LINE__;

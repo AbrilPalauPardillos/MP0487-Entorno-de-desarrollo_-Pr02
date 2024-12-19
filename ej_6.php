@@ -5,7 +5,6 @@
     <title>File Upload Form</title>
 </head>
 <body>
-
 <form action="ej_6.php" method="post" enctype="multipart/form-data">
     <label for="archivo">Archivo:</label>
     <input type="file" name="file" id="file" required>

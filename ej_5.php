@@ -7,6 +7,7 @@
     </style>
 </head>
 <body>
+    
 <h2>Datos Personales</h2>
     <form method="post" action="ej_5.php">
         <label for="nombre">Nombre:</label>
